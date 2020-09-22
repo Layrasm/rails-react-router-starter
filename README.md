@@ -13,7 +13,7 @@
 7. `cd client && yarn`
 8. `yarn start`
 
-### handle git
+### handle git!
 
 - you can either remove the remote and add you own, or you can remove the git repo, remove the
   remote keeps the commit history from starter project, and rm -rf .git is going to complete remove
