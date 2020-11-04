@@ -13,6 +13,10 @@
 7. `cd client && yarn`
 8. `yarn start`
 
+*optional*
+1. `yarn add styled-components`
+2. `yarn add react-bootstrap bootstrap`
+
 ### handle git!
 
 - you can either remove the remote and add you own, or you can remove the git repo, remove the
